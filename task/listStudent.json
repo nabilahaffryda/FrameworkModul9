@@ -8,19 +8,6 @@
       "hp": "081277664499",
       "angkatan": "2018",
       "status": "Active"
-    },
-    {
-      "id": 1618330105676,
-      "NIM": "1841720412",
-      "nama": "Sehun",
-      "alamat": "Jl. Mawar no. 12 Malang",
-      "hp": "081233440099",
-      "angkatan": "2019",
-      "status": "Active"
     }
-  ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
